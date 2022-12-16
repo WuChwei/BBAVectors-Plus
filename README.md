@@ -1,3 +1,3 @@
-# BBAVectors-Plus
+# CFDet
 
 We will release our code later.
